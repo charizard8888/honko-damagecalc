@@ -26272,7 +26272,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sd": 152, 
 "sp": 91, 
 }, 
-},"Azuninja": {
+},/*"Azuninja": {
 "t1":"Water", 
 "t2": "Test",
 "bs": { 
@@ -33136,7 +33136,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sd": 100, 
 "sp": 75, 
 }, 
-},"Shitpost": {
+},*/"Shitpost": {
 "t1":"Dark", 
 "t2": "Steel",
 "bs": { 
