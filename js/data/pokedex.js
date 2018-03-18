@@ -13555,6 +13555,18 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 		"ab": "Power Construct",
 		"isAlternateForme": true
 	},
+		  "Swampamar": {
+"t1:" "Dark", 
+"t2": "Water",
+"bs": { 
+"hp": 103, 
+"at": 111, 
+"df": 99, 
+"sa": 86,
+"sd": 92, 
+"sp": 76
+},
+},
 	"Zygarde-Complete": {
 		"t1": "Dragon",
 		"t2": "Ground",
@@ -13570,16 +13582,4 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 		"ab": "Power Construct",
 		"isAlternateForme": true
 	},
-	  "Swampamar": {
-"t1:" "Dark", 
-"t2": "Water",
-"bs": { 
-"hp": 103, 
-"at": 111, 
-"df": 99, 
-"sa": 86,
-"sd": 92, 
-"sp": 76
-},
-}
 });
