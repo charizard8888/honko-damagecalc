@@ -13579,6 +13579,6 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "df": 99, 
 "sa": 86,
 "sd": 92, 
-"sp": 76, 
-}, 
+"sp": 76
+}
 });
