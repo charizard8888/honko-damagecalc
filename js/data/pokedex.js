@@ -13569,5 +13569,16 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 		"w": 610.0,
 		"ab": "Power Construct",
 		"isAlternateForme": true
-	}
+	},
+	  "Swampamar": {
+"t1:" "Dark", 
+"t2": "Water",
+"bs": { 
+"hp": 103, 
+"at": 111, 
+"df": 99, 
+"sa": 86,
+"sd": 92, 
+"sp": 76, 
+}, 
 });
