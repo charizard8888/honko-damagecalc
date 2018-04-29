@@ -14567,7 +14567,78 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sp": 89 
 }, 
 "w": 888
-},"Crucibelle-Mega": {
+},
+"Golurk-Mega": {
+"t1": "Ground", 
+"t2": "Fire",
+"bs": { 
+"hp": 89, 
+"at": 149, 
+"df": 110, 
+"sa": 50,
+"sd": 110, 
+"sp": 70 
+}, 
+"w": 330
+},"Cofagrigus-Mega": {
+"t1": "Ghost", 
+"bs": { 
+"hp": 58, 
+"at": 70, 
+"df": 115, 
+"sa": 135,
+"sd": 105, 
+"sp": 100 
+}, 
+"w": 76.5
+},"Sigilyph-Mega": {
+"t1": "Psychic", 
+"t2": "Flying",
+"bs": { 
+"hp": 72, 
+"at": 58, 
+"df": 110, 
+"sa": 133,
+"sd": 110, 
+"sp": 107 
+}, 
+"w": 14
+},"Samurott-Mega": {
+"t1": "Water", 
+"bs": { 
+"hp": 95, 
+"at": 152, 
+"df": 105, 
+"sa": 76,
+"sd": 105, 
+"sp": 95 
+}, 
+"w": 94.6
+},"Serperior-Mega": {
+"t1": "Grass", 
+"bs": { 
+"hp": 75, 
+"at": 125, 
+"df": 105, 
+"sa": 105,
+"sd": 105, 
+"sp": 113 
+}, 
+"w": 63
+},"Emboar-Mega": {
+"t1": "Fire", 
+"t2": "Fighting ",
+"bs": { 
+"hp": 110, 
+"at": 154, 
+"df": 125, 
+"sa": 99,
+"sd": 85, 
+"sp": 55 
+}, 
+"w": 400
+},
+"Crucibelle-Mega": {
 "t1": "Rock", 
 "t2": "Poison",
 "bs": { 
