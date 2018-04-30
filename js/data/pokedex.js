@@ -14630,13 +14630,13 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "t2": "Fighting ",
 "bs": { 
 "hp": 110, 
-"at": 154, 
-"df": 125, 
-"sa": 99,
-"sd": 85, 
-"sp": 55 
+"at": 153, 
+"df": 95, 
+"sa": 110,
+"sd": 95, 
+"sp": 65 
 }, 
-"w": 400
+"w": 150
 },
 "Crucibelle-Mega": {
 "t1": "Rock", 
