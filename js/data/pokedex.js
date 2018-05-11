@@ -13728,5 +13728,1207 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 		"ab": "Power Construct",
 		"isAlternateForme": true,
 		"gender": "genderless"
-	}
+	},
+	"Pansage-Eternal": {
+"t1": "Grass", 
+"t2": "Fighting",
+"bs": { 
+"hp": 60, 
+"at": 103, 
+"df": 59, 
+"sa": 103,
+"sd": 59, 
+"sp": 113 
+}, 
+"w": 10.5
+},"Pansear-Eternal": {
+"t1": "Fire", 
+"t2": "Rock",
+"bs": { 
+"hp": 71, 
+"at": 53, 
+"df": 78, 
+"sa": 113,
+"sd": 78, 
+"sp": 104 
+}, 
+"w": 11
+},"Panpour-Eternal": {
+"t1": "Water", 
+"t2": "Ice",
+"bs": { 
+"hp": 80, 
+"at": 103, 
+"df": 48, 
+"sa": 103,
+"sd": 48, 
+"sp": 110 
+}, 
+"w": 13.5
+},"Pikachu-Eternal": {
+"t1": "Electric", 
+
+"bs": { 
+"hp": 65, 
+"at": 65, 
+"df": 90, 
+"sa": 60,
+"sd": 100, 
+"sp": 114 
+}, 
+"w": 6
+},"Eevee-Eternal": {
+"t1": "Normal", 
+
+"bs": { 
+"hp": 70, 
+"at": 92, 
+"df": 70, 
+"sa": 92,
+"sd": 80, 
+"sp": 110 
+}, 
+"w": 6.5
+},"Murkrow-Eternal": {
+"t1": "Dark", 
+"t2": "Flying",
+"bs": { 
+"hp": 73, 
+"at": 107, 
+"df": 57, 
+"sa": 107,
+"sd": 57, 
+"sp": 103 
+}, 
+"w": 2.1
+},"Misdreavus-Eternal": {
+"t1": "Ghost", 
+"t2": "Fairy",
+"bs": { 
+"hp": 61, 
+"at": 61, 
+"df": 61, 
+"sa": 123,
+"sd": 61, 
+"sp": 123 
+}, 
+"w": 1
+},"Lampent-Eternal": {
+"t1": "Ghost", 
+"t2": "Fire",
+"bs": { 
+"hp": 75, 
+"at": 50, 
+"df": 70, 
+"sa": 119,
+"sd": 70, 
+"sp": 105 
+}, 
+"w": 13
+},"Doublade-Eternal": {
+"t1": "Steel", 
+"t2": "Ghost",
+"bs": { 
+"hp": 59, 
+"at": 160, 
+"df": 160, 
+"sa": 45,
+"sd": 59, 
+"sp": 36 
+}, 
+"w": 4.5
+},"Kadabra-Eternal": {
+"t1": "Psychic", 
+"t2": "Ice",
+"bs": { 
+"hp": 60, 
+"at": 35, 
+"df": 65, 
+"sa": 144,
+"sd": 80, 
+"sp": 115 
+}, 
+"w": 56.5
+},"Machoke-Eternal": {
+"t1": "Fighting", 
+"t2": "Steel",
+"bs": { 
+"hp": 100, 
+"at": 133, 
+"df": 88, 
+"sa": 50,
+"sd": 60, 
+"sp": 73 
+}, 
+"w": 70.5
+},"Graveler-Eternal": {
+"t1": "Rock", 
+"t2": "Ground",
+"bs": { 
+"hp": 55, 
+"at": 129, 
+"df": 115, 
+"sa": 45,
+"sd": 45, 
+"sp": 105 
+}, 
+"w": 105
+},"Haunter-Eternal": {
+"t1": "Ghost", 
+"t2": "Dark",
+"bs": { 
+"hp": 55, 
+"at": 50, 
+"df": 45, 
+"sa": 133,
+"sd": 88, 
+"sp": 133 
+}, 
+"w": 0.1
+},"Magneton-Eternal": {
+"t1": "Electric", 
+"t2": "Steel",
+"bs": { 
+"hp": 60, 
+"at": 60, 
+"df": 95, 
+"sa": 145,
+"sd": 80, 
+"sp": 94 
+}, 
+"w": undefined
+},"Nosepass-Eternal": {
+"t1": "Rock", 
+"t2": "Psychic",
+"bs": { 
+"hp": 70, 
+"at": 65, 
+"df": 154, 
+"sa": 95,
+"sd": 120, 
+"sp": 30 
+}, 
+"w": 97
+},"Charjabug-Eternal": {
+"t1": "Bug", 
+"t2": "Electric",
+"bs": { 
+"hp": 77, 
+"at": 131, 
+"df": 117, 
+"sa": 57,
+"sd": 77, 
+"sp": 40 
+}, 
+"w": 10.5
+},"Magikarp-Eternal": {
+"t1": "Water", 
+"t2": "Flying",
+"bs": { 
+"hp": 80, 
+"at": 100, 
+"df": 80, 
+"sa": 90,
+"sd": 80, 
+"sp": 109 
+}, 
+"w": 10
+},"Feebas-Eternal": {
+"t1": "Water", 
+
+"bs": { 
+"hp": 118, 
+"at": 18, 
+"df": 98, 
+"sa": 68,
+"sd": 118, 
+"sp": 119 
+}, 
+"w": 7.4
+},"Wimpod-Eternal": {
+"t1": "Bug", 
+"t2": "Water",
+"bs": { 
+"hp": 125, 
+"at": 100, 
+"df": 74, 
+"sa": 35,
+"sd": 80, 
+"sp": 115 
+}, 
+"w": 12
+},"Dartrix-Eternal": {
+"t1": "Grass", 
+"t2": "Rock",
+"bs": { 
+"hp": 76, 
+"at": 78, 
+"df": 108, 
+"sa": 101,
+"sd": 74, 
+"sp": 92 
+}, 
+"w": 16
+},"Torracat-Eternal": {
+"t1": "Fire", 
+"t2": "Dragon",
+"bs": { 
+"hp": 77, 
+"at": 96, 
+"df": 66, 
+"sa": 104,
+"sd": 67, 
+"sp": 119 
+}, 
+"w": 25
+},"Brionne-Eternal": {
+"t1": "Water", 
+"t2": "Psychic",
+"bs": { 
+"hp": 60, 
+"at": 69, 
+"df": 108, 
+"sa": 131,
+"sd": 111, 
+"sp": 50 
+}, 
+"w": 17.5
+},"Onix-Eternal": {
+"t1": "Rock", 
+"t2": "Dragon",
+"bs": { 
+"hp": 40, 
+"at": 18, 
+"df": 174, 
+"sa": 92,
+"sd": 69, 
+"sp": 116 
+}, 
+"w": 210
+},"Chansey-Eternal": {
+"t1": "Normal", 
+"t2": "Fairy",
+"bs": { 
+"hp": 250, 
+"at": 32, 
+"df": 32, 
+"sa": 35,
+"sd": 135, 
+"sp": 55 
+}, 
+"w": 34.6
+},"Cranidos-Eternal": {
+"t1": "Rock", 
+"t2": "Dark",
+"bs": { 
+"hp": 107, 
+"at": 155, 
+"df": 59, 
+"sa": 19,
+"sd": 51, 
+"sp": 103 
+}, 
+"w": 31.5
+},"Sneasel-Eternal": {
+"t1": "Ghost", 
+"t2": "Ice",
+"bs": { 
+"hp": 60, 
+"at": 44, 
+"df": 64, 
+"sa": 124,
+"sd": 93, 
+"sp": 124 
+}, 
+"w": 28
+},"Duosion-Eternal": {
+"t1": "Psychic", 
+"t2": "Grass",
+"bs": { 
+"hp": 82, 
+"at": 42, 
+"df": 102, 
+"sa": 129,
+"sd": 92, 
+"sp": 42 
+}, 
+"w": 8
+},"Cosmoem-Eternal": {
+"t1": "Psychic", 
+"t2": "Rock",
+"bs": { 
+"hp": 71, 
+"at": 137, 
+"df": 151, 
+"sa": 137,
+"sd": 181, 
+"sp": 2 
+}, 
+"w": 999.9
+},"Tangela-Eternal": {
+"t1": "Grass", 
+"t2": "Dark",
+"bs": { 
+"hp": 121, 
+"at": 100, 
+"df": 116, 
+"sa": 56,
+"sd": 54, 
+"sp": 87 
+}, 
+"w": 35
+},"Yanma-Eternal": {
+"t1": "Bug", 
+"t2": "Dragon",
+"bs": { 
+"hp": 65, 
+"at": 45, 
+"df": 101, 
+"sa": 101,
+"sd": 96, 
+"sp": 106 
+}, 
+"w": 38
+},"Piloswine-Eternal": {
+"t1": "Ground", 
+
+"bs": { 
+"hp": 104, 
+"at": 105, 
+"df": 95, 
+"sa": 65,
+"sd": 105, 
+"sp": 55 
+}, 
+"w": 55.8
+},"Dragonair-Eternal": {
+"t1": "Dragon", 
+"t2": "Normal",
+"bs": { 
+"hp": 91, 
+"at": 114, 
+"df": 94, 
+"sa": 90,
+"sd": 109, 
+"sp": 101 
+}, 
+"w": 16.5
+},"Pupitar-Eternal": {
+"t1": "Rock", 
+"t2": "Ground",
+"bs": { 
+"hp": 94, 
+"at": 124, 
+"df": 120, 
+"sa": 65,
+"sd": 105, 
+"sp": 91 
+}, 
+"w": 152
+},"Shelgon-Eternal": {
+"t1": "Dragon", 
+"t2": "Steel",
+"bs": { 
+"hp": 64, 
+"at": 128, 
+"df": 160, 
+"sa": 95,
+"sd": 125, 
+"sp": 27 
+}, 
+"w": 110.5
+},"Metang-Eternal": {
+"t1": "Steel", 
+"t2": "Ghost",
+"bs": { 
+"hp": 83, 
+"at": 105, 
+"df": 134, 
+"sa": 85,
+"sd": 123, 
+"sp": 69 
+}, 
+"w": 202.5
+},"Gabite-Eternal": {
+"t1": "Dragon", 
+"t2": "Water",
+"bs": { 
+"hp": 90, 
+"at": 150, 
+"df": 90, 
+"sa": 79,
+"sd": 90, 
+"sp": 100 
+}, 
+"w": 56
+},"Zweilous-Eternal": {
+"t1": "Dark", 
+"t2": "Dragon",
+"bs": { 
+"hp": 81, 
+"at": 105, 
+"df": 105, 
+"sa": 105,
+"sd": 105, 
+"sp": 98 
+}, 
+"w": 50
+},"Sliggoo-Eternal": {
+"t1": "Dragon", 
+"t2": "Electric",
+"bs": { 
+"hp": 110, 
+"at": 89, 
+"df": 105, 
+"sa": 115,
+"sd": 100, 
+"sp": 80 
+}, 
+"w": 17.5
+},"Hakamo-o-Eternal": {
+"t1": "Dragon", 
+"t2": "Fighting",
+"bs": { 
+"hp": 34, 
+"at": 130, 
+"df": 95, 
+"sa": 130,
+"sd": 85, 
+"sp": 125 
+}, 
+"w": 47
+},"Rhydon-Eternal": {
+"t1": "Rock", 
+"t2": "Dragon",
+"bs": { 
+"hp": 95, 
+"at": 88, 
+"df": 90, 
+"sa": 130,
+"sd": 50, 
+"sp": 81 
+}, 
+"w": 120
+},"Lairon-Eternal": {
+"t1": "Steel", 
+"t2": "Water",
+"bs": { 
+"hp": 80, 
+"at": 80, 
+"df": 115, 
+"sa": 80,
+"sd": 145, 
+"sp": 29 
+}, 
+"w": 120
+},"Shieldon-Eternal": {
+"t1": "Rock", 
+
+"bs": { 
+"hp": 100, 
+"at": 72, 
+"df": 118, 
+"sa": 42,
+"sd": 108, 
+"sp": 54 
+}, 
+"w": 57
+},"Ivysaur-Eternal": {
+"t1": "Dark", 
+"t2": "Poison",
+"bs": { 
+"hp": 90, 
+"at": 80, 
+"df": 110, 
+"sa": 100,
+"sd": 99, 
+"sp": 45 
+}, 
+"w": 13
+},"Charmeleon-Eternal": {
+"t1": "Fire", 
+"t2": "Water",
+"bs": { 
+"hp": 98, 
+"at": 82, 
+"df": 98, 
+"sa": 80,
+"sd": 108, 
+"sp": 80 
+}, 
+"w": 19
+},"Wartortle-Eternal": {
+"t1": "Water", 
+"t2": "Grass",
+"bs": { 
+"hp": 59, 
+"at": 123, 
+"df": 80, 
+"sa": 70,
+"sd": 80, 
+"sp": 118 
+}, 
+"w": 22.5
+},"Diglett-Eternal": {
+"t1": "Ground", 
+
+"bs": { 
+"hp": 32, 
+"at": 99, 
+"df": 48, 
+"sa": 58,
+"sd": 68, 
+"sp": 119 
+}, 
+"w": 0.8
+},"Wynaut-Eternal": {
+"t1": "Psychic", 
+
+"bs": { 
+"hp": 49, 
+"at": 23, 
+"df": 143, 
+"sa": 23,
+"sd": 143, 
+"sp": 23 
+}, 
+"w": 14
+},"Gothorita-Eternal": {
+"t1": "Psychic", 
+"t2": "Fairy",
+"bs": { 
+"hp": 80, 
+"at": 24, 
+"df": 85, 
+"sa": 130,
+"sd": 70, 
+"sp": 100 
+}, 
+"w": 18
+},"Pidgeotto-Eternal": {
+"t1": "Flying", 
+
+"bs": { 
+"hp": 80, 
+"at": 130, 
+"df": 60, 
+"sa": 38,
+"sd": 60, 
+"sp": 110 
+}, 
+"w": 30
+},"Spearow-Eternal": {
+"t1": "Dark", 
+"t2": "Flying",
+"bs": { 
+"hp": 60, 
+"at": 100, 
+"df": 60, 
+"sa": 56,
+"sd": 50, 
+"sp": 115 
+}, 
+"w": 2
+},"Hoothoot-Eternal": {
+"t1": "Fairy", 
+"t2": "Flying",
+"bs": { 
+"hp": 100, 
+"at": 30, 
+"df": 80, 
+"sa": 86,
+"sd": 105, 
+"sp": 50 
+}, 
+"w": 21.2
+},"Taillow-Eternal": {
+"t1": "Nomral", 
+"t2": "Water",
+"bs": { 
+"hp": 60, 
+"at": 105, 
+"df": 65, 
+"sa": 54,
+"sd": 65, 
+"sp": 105 
+}, 
+"w": 2.3
+},"Wingull-Eternal": {
+"t1": "Water", 
+"t2": "Ghost",
+"bs": { 
+"hp": 96, 
+"at": 30, 
+"df": 30, 
+"sa": 66,
+"sd": 104, 
+"sp": 113 
+}, 
+"w": 28
+},"Staravia-Eternal": {
+"t1": "Fairy", 
+"t2": "Flying",
+"bs": { 
+"hp": 55, 
+"at": 154, 
+"df": 55, 
+"sa": 66,
+"sd": 55, 
+"sp": 99 
+}, 
+"w": 15.5
+},"Tranquill-Eternal": {
+"t1": "Flying", 
+
+"bs": { 
+"hp": 115, 
+"at": 57, 
+"df": 67, 
+"sa": 57,
+"sd": 80, 
+"sp": 111 
+}, 
+"w": 15
+},"Fletchinder-Eternal": {
+"t1": "Fire", 
+"t2": "Dark",
+"bs": { 
+"hp": 63, 
+"at": 104, 
+"df": 105, 
+"sa": 40,
+"sd": 63, 
+"sp": 124 
+}, 
+"w": 16
+},"Trumbeak-Eternal": {
+"t1": "Grass", 
+"t2": "Flying",
+"bs": { 
+"hp": 80, 
+"at": 115, 
+"df": 70, 
+"sa": 50,
+"sd": 70, 
+"sp": 99 
+}, 
+"w": 14.8
+},"Clefairy-Eternal": {
+"t1": "Fairy", 
+"t2": "Steel",
+"bs": { 
+"hp": 99, 
+"at": 110, 
+"df": 68, 
+"sa": 60,
+"sd": 85, 
+"sp": 75 
+}, 
+"w": 7.5
+},"Jigglypuff-Eternal": {
+"t1": "Normal", 
+"t2": "Fighting",
+"bs": { 
+"hp": 120, 
+"at": 120, 
+"df": 25, 
+"sa": 24,
+"sd": 25, 
+"sp": 120 
+}, 
+"w": 5.5
+},"Togetic-Eternal": {
+"t1": "Fairy", 
+"t2": "Water",
+"bs": { 
+"hp": 64, 
+"at": 44, 
+"df": 124, 
+"sa": 144,
+"sd": 144, 
+"sp": 54 
+}, 
+"w": 3.2
+},"Snubbull-Eternal": {
+"t1": "Fairy", 
+"t2": "Electric",
+"bs": { 
+"hp": 91, 
+"at": 46, 
+"df": 84, 
+"sa": 133,
+"sd": 60, 
+"sp": 30 
+}, 
+"w": 7.8
+},"Drifloon-Eternal": {
+"t1": "Ghost", 
+"t2": "Psychic",
+"bs": { 
+"hp": 100, 
+"at": 37, 
+"df": 80, 
+"sa": 110,
+"sd": 80, 
+"sp": 90 
+}, 
+"w": 1.2
+},"Yamask-Eternal": {
+"t1": "Ghost", 
+"t2": "Steel",
+"bs": { 
+"hp": 110, 
+"at": 30, 
+"df": 93, 
+"sa": 115,
+"sd": 83, 
+"sp": 61 
+}, 
+"w": 1.5
+},"Phantump-Eternal": {
+"t1": "Ghost", 
+"t2": "Dragon",
+"bs": { 
+"hp": 93, 
+"at": 60, 
+"df": 55, 
+"sa": 100,
+"sd": 130, 
+"sp": 35 
+}, 
+"w": 7
+},"Rufflet-Eternal": {
+"t1": "Flying", 
+
+"bs": { 
+"hp": 99, 
+"at": 104, 
+"df": 84, 
+"sa": 41,
+"sd": 84, 
+"sp": 97 
+}, 
+"w": 10.5
+},"Vullaby-Eternal": {
+"t1": "Dark", 
+"t2": "Bug",
+"bs": { 
+"hp": 80, 
+"at": 60, 
+"df": 100, 
+"sa": 118,
+"sd": 96, 
+"sp": 55 
+}, 
+"w": 9
+},"Larvesta-Eternal": {
+"t1": "Bug", 
+"t2": "Fire",
+"bs": { 
+"hp": 99, 
+"at": 44, 
+"df": 69, 
+"sa": 144,
+"sd": 99, 
+"sp": 94 
+}, 
+"w": 28.8
+},"Poipole-Eternal": {
+"t1": "Poison", 
+"t2": "Psychic",
+"bs": { 
+"hp": 97, 
+"at": 71, 
+"df": 107, 
+"sa": 111,
+"sd": 107, 
+"sp": 46 
+}, 
+"w": 1.8
+},"Gloom-Eternal": {
+"t1": "Dark", 
+"t2": "Poison",
+"bs": { 
+"hp": 80, 
+"at": 70, 
+"df": 90, 
+"sa": 110,
+"sd": 95, 
+"sp": 44 
+}, 
+"w": 8.6
+},"Weepinbell-Eternal": {
+"t1": "Fire", 
+"t2": "Poison",
+"bs": { 
+"hp": 100, 
+"at": 60, 
+"df": 90, 
+"sa": 74,
+"sd": 90, 
+"sp": 75 
+}, 
+"w": 6.4
+},"Nuzleaf-Eternal": {
+"t1": "Dark", 
+
+"bs": { 
+"hp": 91, 
+"at": 91, 
+"df": 41, 
+"sa": 72,
+"sd": 41, 
+"sp": 143 
+}, 
+"w": 28
+},"Exeggcute-Eternal": {
+"t1": "Grass", 
+"t2": "Fighting",
+"bs": { 
+"hp": 70, 
+"at": 125, 
+"df": 99, 
+"sa": 40,
+"sd": 80, 
+"sp": 115 
+}, 
+"w": 2.5
+},"Poliwhirl-Eternal": {
+"t1": "Water", 
+"t2": "Psychic",
+"bs": { 
+"hp": 69, 
+"at": 98, 
+"df": 69, 
+"sa": 94,
+"sd": 60, 
+"sp": 109 
+}, 
+"w": 20
+},"Shellder-Eternal": {
+"t1": "Water", 
+"t2": "Dark",
+"bs": { 
+"hp": 100, 
+"at": 120, 
+"df": 100, 
+"sa": 45,
+"sd": 100, 
+"sp": 59 
+}, 
+"w": 4
+},"Staryu-Eternal": {
+"t1": "Water", 
+"t2": "Fire",
+"bs": { 
+"hp": 66, 
+"at": 66, 
+"df": 67, 
+"sa": 125,
+"sd": 83, 
+"sp": 112 
+}, 
+"w": 34.5
+},"Lombre-Eternal": {
+"t1": "Fire", 
+"t2": "Grass",
+"bs": { 
+"hp": 110, 
+"at": 80, 
+"df": 90, 
+"sa": 79,
+"sd": 70, 
+"sp": 50 
+}, 
+"w": 32.5
+},"Sunkern-Eternal": {
+"t1": "Grass", 
+
+"bs": { 
+"hp": 144, 
+"at": 14, 
+"df": 54, 
+"sa": 144,
+"sd": 54, 
+"sp": 14 
+}, 
+"w": 1.8
+},"Cottonee-Eternal": {
+"t1": "Poison", 
+"t2": "Fairy",
+"bs": { 
+"hp": 89, 
+"at": 25, 
+"df": 70, 
+"sa": 115,
+"sd": 70, 
+"sp": 110 
+}, 
+"w": 0.6
+},"Petilil-Eternal": {
+"t1": "Grass", 
+
+"bs": { 
+"hp": 80, 
+"at": 19, 
+"df": 90, 
+"sa": 100,
+"sd": 90, 
+"sp": 100 
+}, 
+"w": 6.6
+},"Helioptile-Eternal": {
+"t1": "Electric", 
+"t2": "Fire",
+"bs": { 
+"hp": 22, 
+"at": 75, 
+"df": 32, 
+"sa": 128,
+"sd": 85, 
+"sp": 138 
+}, 
+"w": 6
+},"Snorunt-Eternal": {
+"t1": "Ice", 
+
+"bs": { 
+"hp": 110, 
+"at": 109, 
+"df": 50, 
+"sa": 110,
+"sd": 50, 
+"sp": 50 
+}, 
+"w": 16.8
+},"Chingling-Eternal": {
+"t1": "Psychic", 
+"t2": "Steel",
+"bs": { 
+"hp": 100, 
+"at": 28, 
+"df": 85, 
+"sa": 66,
+"sd": 90, 
+"sp": 85 
+}, 
+"w": 0.6
+},"Ponyta-Eternal": {
+"t1": "Fire", 
+"t2": "Steel",
+"bs": { 
+"hp": 80, 
+"at": 65, 
+"df": 55, 
+"sa": 133,
+"sd": 65, 
+"sp": 131 
+}, 
+"w": 30
+},"Smoochum-Eternal": {
+"t1": "Ice", 
+"t2": "Poison",
+"bs": { 
+"hp": 70, 
+"at": 30, 
+"df": 90, 
+"sa": 115,
+"sd": 84, 
+"sp": 65 
+}, 
+"w": 6
+},"Klang-Eternal": {
+"t1": "Steel", 
+
+"bs": { 
+"hp": 90, 
+"at": 135, 
+"df": 96, 
+"sa": 39,
+"sd": 84, 
+"sp": 75 
+}, 
+"w": 51
+},"Eelektrik-Eternal": {
+"t1": "Electric", 
+"t2": "Poison",
+"bs": { 
+"hp": 128, 
+"at": 97, 
+"df": 64, 
+"sa": 64,
+"sd": 64, 
+"sp": 97 
+}, 
+"w": 22
+},"Ferroseed-Eternal": {
+"t1": "Steel", 
+"t2": "Ghost",
+"bs": { 
+"hp": 62, 
+"at": 22, 
+"df": 143, 
+"sa": 100,
+"sd": 151, 
+"sp": 10 
+}, 
+"w": 18.8
+},"Joltik-Eternal": {
+"t1": "Electric", 
+"t2": "Poison",
+"bs": { 
+"hp": 95, 
+"at": 95, 
+"df": 75, 
+"sa": 78,
+"sd": 93, 
+"sp": 35 
+}, 
+"w": 0.6
+},"Omanyte-Eternal": {
+"t1": "Water", 
+
+"bs": { 
+"hp": 70, 
+"at": 40, 
+"df": 130, 
+"sa": 95,
+"sd": 115, 
+"sp": 44 
+}, 
+"w": 7.5
+},"Kabuto-Eternal": {
+"t1": "Water", 
+"t2": "Steel",
+"bs": { 
+"hp": 100, 
+"at": 100, 
+"df": 100, 
+"sa": 47,
+"sd": 47, 
+"sp": 100 
+}, 
+"w": 11.5
+},"Lileep-Eternal": {
+"t1": "Grass", 
+"t2": "Water",
+"bs": { 
+"hp": 104, 
+"at": 39, 
+"df": 104, 
+"sa": 104,
+"sd": 104, 
+"sp": 39 
+}, 
+"w": 23.8
+},"Anorith-Eternal": {
+"t1": "Bug", 
+"t2": "Water",
+"bs": { 
+"hp": 57, 
+"at": 133, 
+"df": 57, 
+"sa": 57,
+"sd": 57, 
+"sp": 133 
+}, 
+"w": 12.5
+},"Tirtouga-Eternal": {
+"t1": "Steel", 
+"t2": "Water",
+"bs": { 
+"hp": 80, 
+"at": 84, 
+"df": 130, 
+"sa": 60,
+"sd": 130, 
+"sp": 10 
+}, 
+"w": 16.5
+},"Archen-Eternal": {
+"t1": "Rock", 
+
+"bs": { 
+"hp": 74, 
+"at": 65, 
+"df": 112, 
+"sa": 65,
+"sd": 110, 
+"sp": 140 
+}, 
+"w": 9.5
+},"Tyrunt-Eternal": {
+"t1": "Dark", 
+"t2": "Dragon",
+"bs": { 
+"hp": 100, 
+"at": 100, 
+"df": 80, 
+"sa": 40,
+"sd": 80, 
+"sp": 120 
+}, 
+"w": 26
+},"Amaura-Eternal": {
+"t1": "Fairy", 
+"t2": "Ice",
+"bs": { 
+"hp": 120, 
+"at": 40, 
+"df": 100, 
+"sa": 80,
+"sd": 100, 
+"sp": 80 
+}, 
+"w": 25.2
+},"Pumpkaboo-Eternal": {
+"t1": "Grass", 
+"t2": "Fire",
+"bs": { 
+"hp": 49, 
+"at": 46, 
+"df": 120, 
+"sa": 124,
+"sd": 85, 
+"sp": 69 
+}, 
+"w": 5
+},"Pumpkaboo-Small-Eternal": {
+"t1": "Grass", 
+"t2": "Fire",
+"bs": { 
+"hp": 44, 
+"at": 46, 
+"df": 120, 
+"sa": 124,
+"sd": 85, 
+"sp": 74 
+}, 
+"w": 3.5
+},"Pumpkaboo-Large-Eternal": {
+"t1": "Grass", 
+"t2": "Fire",
+"bs": { 
+"hp": 54, 
+"at": 46, 
+"df": 120, 
+"sa": 124,
+"sd": 85, 
+"sp": 64 
+}, 
+"w": 7.5
+},"Pumpkaboo-Super-Eternal": {
+"t1": "Grass", 
+"t2": "Fire",
+"bs": { 
+"hp": 59, 
+"at": 46, 
+"df": 120, 
+"sa": 124,
+"sd": 85, 
+"sp": 59 
+}, 
+"w": 15
+},
+
 });
