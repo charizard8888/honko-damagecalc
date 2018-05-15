@@ -3513,5 +3513,521 @@ var MOVES_SM = $.extend(true, {}, MOVES_XY, {
 		hasSecondaryEffect: true,
 		makesContact: true,
 		zp: 160
-	}
+	},
+	'Wrath Of Nature': { 
+bp: 100, 
+type: 'Grass', 
+category: 'Physical',
+zp: 180
+},
+'Volcanic Eruption': { 
+bp: 140, 
+type: 'Fire', 
+category: 'Special',
+zp: 200
+},
+'See No Evil': { 
+bp: 100, 
+type: 'Water', 
+category: 'Special',
+zp: 180
+},
+'Gigavolt Impact': { 
+bp: 100, 
+type: 'Electric', 
+category: 'Physical',
+zp: 180
+},
+'Evolution Blast': { 
+bp: 0, 
+type: 'Normal', 
+category: 'Special',
+zp: 200
+},
+'Evolution Blast': { 
+bp: 15, 
+type: 'Water', 
+category: 'Special',
+zp: 25
+},
+'Evolution Blast': { 
+bp: 15, 
+type: 'Electric', 
+category: 'Special',
+zp: 25
+},
+'Evolution Blast': { 
+bp: 15, 
+type: 'Fire', 
+category: 'Special',
+zp: 25
+},
+'Evolution Blast': { 
+bp: 15, 
+type: 'Psychic', 
+category: 'Special',
+zp: 25
+},
+'Evolution Blast': { 
+bp: 15, 
+type: 'Dark', 
+category: 'Special',
+zp: 25
+},
+'Evolution Blast': { 
+bp: 15, 
+type: 'Grass', 
+category: 'Special',
+zp: 25
+},
+'Evolution Blast': { 
+bp: 15, 
+type: 'Ice', 
+category: 'Special',
+zp: 25
+},
+'Evolution Blast': { 
+bp: 15, 
+type: 'Fairy', 
+category: 'Special',
+zp: 25
+},
+'Dark Crow Dive': { 
+bp: 150, 
+type: 'Dark', 
+category: 'Physical',
+zp: 200
+},
+'Mystic Wraith': { 
+bp: 100, 
+type: 'Ghost', 
+category: 'Special',
+zp: 180
+},
+'Wisp Burst': { 
+bp: 130, 
+type: 'Ghost', 
+category: 'Special',
+zp: 195
+},
+'Double Swordstrike': { 
+bp: 60, 
+type: 'Steel', 
+category: 'Physical',
+zp: 190
+},
+'Brain Freeze': { 
+bp: 70, 
+type: 'Ice', 
+category: 'Special',
+zp: 140
+},
+'Metallic Punch': { 
+bp: 90, 
+type: 'Steel', 
+category: 'Physical',
+zp: 175
+},
+'Stone Slam': { 
+bp: 100, 
+type: 'Rock', 
+category: 'Physical',
+zp: 180
+},
+'Spectrum Bite': { 
+bp: 90, 
+type: 'Ghost', 
+category: 'Special',
+zp: 175
+},
+'Particle Cannon': { 
+bp: 120, 
+type: 'Steel', 
+category: 'Special',
+zp: 190
+},
+'Relic Rejuvenation': { 
+bp: 75, 
+type: 'Psychic', 
+category: 'Special',
+zp: 150
+},
+'Battery Overload': { 
+bp: 110, 
+type: 'Electric', 
+category: 'Physical',
+zp: 185
+},
+'Hit and Run': { 
+bp: 100, 
+type: 'Bug', 
+category: 'Physical',
+zp: 180
+},
+'Dart Tricks': { 
+bp: 30, 
+type: 'Rock', 
+category: 'Special',
+zp: 175
+},
+'High Noon Claw': { 
+bp: 100, 
+type: 'Dragon', 
+category: 'Special',
+zp: 175
+},
+'Kinetic Blow': { 
+bp: 90, 
+type: 'Psychic', 
+category: 'Special',
+zp: 175
+},
+'Magical Egg': { 
+bp: 0, 
+type: 'Fairy', 
+category: 'Special',
+zp: 100
+},
+'Brutal Trick': { 
+bp: 70, 
+type: 'Dark', 
+category: 'Physical',
+zp: 140
+},
+'Eerie Whiteout': { 
+bp: 50, 
+type: 'Ghost', 
+category: 'Special',
+zp: 175
+},
+'Gravity': { 
+bp: 90, 
+type: 'Psychic', 
+category: 'Special',
+zp: 175
+},
+'Despoiling Vines': { 
+bp: 35, 
+type: 'Dark', 
+category: 'Physical',
+zp: 1000
+},
+'Blinding Iridescence': { 
+bp: 100, 
+type: 'Dragon', 
+category: 'Special',
+zp: 180
+},
+'Ardent Strike': { 
+bp: 90, 
+type: 'Dragon', 
+category: 'Physical',
+zp: 160
+},
+'Spike Storm': { 
+bp: 20, 
+type: 'Ground', 
+category: 'Physical',
+zp: 80
+},
+'Metallic Charge': { 
+bp: 160, 
+type: 'Steel', 
+category: 'Physical',
+zp: 200
+},
+'Rapid Cascade': { 
+bp: 100, 
+type: 'Water', 
+category: 'Physical',
+zp: 180
+},
+'Dead-On Strike': { 
+bp: 80, 
+type: 'Dark', 
+category: 'Physical',
+zp: 200
+},
+'Bamboo Bash': { 
+bp: 90, 
+type: 'Grass', 
+category: 'Physical',
+zp: 175
+},
+'Hole Dig': { 
+bp: 135, 
+type: 'Ground', 
+category: 'Physical',
+zp: 200
+},
+'Swirling Punch': { 
+bp: 90, 
+type: 'Psychic', 
+category: 'Physical',
+zp: 175
+},
+'Highway Mans Strike': { 
+bp: 60, 
+type: 'Dark', 
+category: 'Physical',
+zp: 150
+},
+'Cascade': { 
+bp: 70, 
+type: 'Water', 
+category: 'Physical',
+zp: 140
+},
+'Shipwrecked Gale': { 
+bp: 70, 
+type: 'Ghost', 
+category: 'Special',
+zp: 140
+},
+'Gorgeous Strike': { 
+bp: 120, 
+type: 'Fairy', 
+category: 'Physical',
+zp: 195
+},
+'Woodpecker Barrage': { 
+bp: 30, 
+type: 'Flying', 
+category: 'Physical',
+zp: 190
+},
+'Meteorite Impact': { 
+bp: 45, 
+type: 'Fairy', 
+category: 'Physical',
+zp: 170
+},
+'Brawling Ball': { 
+bp: 120, 
+type: 'Fighting', 
+category: 'Physical',
+zp: 190
+},
+'Razzle Dazzle': { 
+bp: 45, 
+type: 'Electric', 
+category: 'Special',
+zp: 100
+},
+'Soul Stamp': { 
+bp: 110, 
+type: 'Steel', 
+category: 'Special',
+zp: 185
+},
+'Flea Storm': { 
+bp: 120, 
+type: 'Bug', 
+category: 'Special',
+zp: 140
+},
+'Ultra Warp': { 
+bp: 65, 
+type: 'Psychic', 
+category: 'Special',
+zp: 120
+},
+'Voidster': { 
+bp: 25, 
+type: 'Dark', 
+category: 'Physical',
+zp: 140
+},
+'Pinpoint Smash': { 
+bp: 110, 
+type: 'Ice', 
+category: 'Physical',
+zp: 185
+},
+'Shadow Brambles': { 
+bp: 100, 
+type: 'Ghost', 
+category: 'Special',
+zp: 180
+},
+'Turbo Spin': { 
+bp: 70, 
+type: 'Fire', 
+category: 'Special',
+zp: 140
+},
+'Breakthrough': { 
+bp: 135, 
+type: 'Rock', 
+category: 'Special',
+zp: 200
+},
+'Squeaky Wheel': { 
+bp: 80, 
+type: 'Steel', 
+category: 'Physical',
+zp: 160
+},
+'Algae Allure': { 
+bp: 90, 
+type: 'Water', 
+category: 'Special',
+zp: 175
+},
+'Heat Converter': { 
+bp: 70, 
+type: 'Fire', 
+category: 'Special',
+zp: 175
+},
+'Aquatic Ambush': { 
+bp: 90, 
+type: 'Water', 
+category: 'Physical',
+zp: 175
+},
+'Pumpkin Flare': { 
+bp: 20, 
+type: 'Fire', 
+category: 'Special',
+zp: 190
+},
+'Aerial Smash': { 
+bp: 170, 
+type: 'Fighting', 
+category: 'Physical',
+zp: 150
+},
+'Phantasmal Break': { 
+bp: 80, 
+type: 'Ghost', 
+category: 'Physical',
+zp: 160
+},
+'Egg Overboil': { 
+bp: 45, 
+type: 'Water', 
+category: 'Special',
+zp: 175
+},
+'Ancient Ritual': { 
+bp: 150, 
+type: 'type', 
+category: 'Special',
+zp: 210
+},
+'Manifest Destiny': { 
+bp: 90, 
+type: 'type', 
+category: 'Physical',
+zp: 170
+},
+'Spore Burst': { 
+bp: 100, 
+type: 'Dark', 
+category: 'Special',
+zp: 190
+},
+'Divine Luster': { 
+bp: 90, 
+type: 'Fairy', 
+category: 'Special',
+zp: 175
+},
+'Injection': { 
+bp: 90, 
+type: 'Poison', 
+category: 'Physical',
+zp: 175
+},
+'Napalm': { 
+bp: 20, 
+type: 'Dark', 
+category: 'Physical',
+zp: 120
+},
+'Napalm': { 
+bp: 40, 
+type: 'Dark', 
+category: 'Physical',
+zp: 100
+},
+'Archaic Anguish': { 
+bp: 0, 
+type: 'Rock', 
+category: 'Special',
+zp: 100
+},
+'Draconid Fangs': { 
+bp: 85, 
+type: 'Dragon', 
+category: 'Physical',
+zp: 100
+},
+'Gear Overload': { 
+bp: 15, 
+type: 'Steel', 
+category: 'Physical',
+zp: 160
+},
+'Rainbow Burst': { 
+bp: 60, 
+type: 'Fire', 
+category: 'Special',
+zp: 120
+},
+'Sun Dance': { 
+bp: 0, 
+type: 'Fire', 
+category: 'Special',
+zp: 180
+},
+'Toxic Lips': { 
+bp: 85, 
+type: 'Poison', 
+category: 'Special',
+zp: 160
+},
+'Electrophage': { 
+bp: 90, 
+type: 'Electric', 
+category: 'Physical',
+zp: 175
+},
+'Misdirection': { 
+bp: 60, 
+type: 'Dark', 
+category: 'Physical',
+zp: 120
+},
+'Poach and Scramble': { 
+bp: 20, 
+type: 'Fighting', 
+category: 'Physical',
+zp: 140
+},
+'Superseed': { 
+bp: 100, 
+type: 'Psychic', 
+category: 'Special',
+zp: 190
+},
+'Acid Geyser': { 
+bp: 80, 
+type: 'Poison', 
+category: 'Special',
+zp: 160
+},
+'Molten Iron Spout': { 
+bp: 130, 
+type: 'Steel', 
+category: 'Special',
+zp: 195
+},
+'Nosokinesis': { 
+bp: 100, 
+type: 'Psychic', 
+category: 'Special',
+zp: 180
+},
 });
