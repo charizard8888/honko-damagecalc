@@ -14444,7 +14444,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "hp": 64, 
 "at": 44, 
 "df": 124, 
-"sa": 144,
+"sa": 114,
 "sd": 144, 
 "sp": 54 
 }, 
@@ -14742,9 +14742,9 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 
 "bs": { 
 "hp": 90, 
-"at": 135, 
+"at": 105, 
 "df": 96, 
-"sa": 39,
+"sa": 69,
 "sd": 84, 
 "sp": 75 
 }, 
