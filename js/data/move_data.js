@@ -4,6 +4,1376 @@ var MOVES_RBY = {
 		type: 'Normal',
 		category: 'Physical'
 	},
+	'Rocky Terrain':{
+bp:0, 
+type:'Rock',
+category:'Status',
+},
+'Beautiful Terrain':{
+bp:0, 
+type:'Fire',
+category:'Status',
+},
+'Radioactive Terrain':{
+bp:0, 
+type:'Poison',
+category:'Status',
+},
+'Shadow Dance':{
+bp:0, 
+type:'Ghost',
+category:'Status',
+},
+'Tera Armor':{
+bp:0, 
+type:'Poison',
+category:'Status',
+},
+'Dark Terrain':{
+bp:0, 
+type:'Dark',
+category:'Status',
+},
+'Metronome':{
+bp:0, 
+type:'Normal',
+category:'Status',
+},
+'Worry Seed':{
+bp:0, 
+type:'Grass',
+category:'Status',
+},
+'Simple Beam':{
+bp:0, 
+type:'Normal',
+category:'Status',
+},
+'Entrainment':{
+bp:0, 
+type:'Normal',
+category:'Status',
+},
+'Wish':{
+bp:0, 
+type:'Normal',
+category:'Status',
+},
+'Solar Beam':{
+bp:120, 
+type:'Grass',
+category:'Special',
+},
+'Solar Blade':{
+bp:125, 
+type:'Grass',
+category:'Physical',
+},
+'Moonlight':{
+bp:0, 
+type:'Fairy',
+category:'Status',
+},
+'Morning Sun':{
+bp:0, 
+type:'Normal',
+category:'Status',
+},
+'Synthesis':{
+bp:0, 
+type:'Grass',
+category:'Status',
+},
+'Blizzard':{
+bp:110, 
+type:'Ice',
+category:'Special',
+},
+'Aurora Veil':{
+bp:0, 
+type:'Ice',
+category:'Status',
+},
+'Growth':{
+bp:0, 
+type:'Normal',
+category:'Status',
+},
+'Hurricane':{
+bp:110, 
+type:'Flying',
+category:'Special',
+},
+'Thunder':{
+bp:110, 
+type:'Electric',
+category:'Special',
+},
+'Dig':{
+bp:80, 
+type:'Ground',
+category:'Physical',
+},
+'Dive':{
+bp:80, 
+type:'Water',
+category:'Physical',
+},
+'Weather Ball':{
+bp:50, 
+type:'Normal',
+category:'Special',
+},
+'Defog':{
+bp:0, 
+type:'Flying',
+category:'Status',
+},
+'Rapid Spin':{
+bp:20, 
+type:'Normal',
+category:'Physical',
+},
+'Brick Break':{
+bp:75, 
+type:'Fighting',
+category:'Physical',
+},
+'Psychic Fangs':{
+bp:85, 
+type:'Psychic',
+category:'Physical',
+},
+'Hyperspace Fury':{
+bp:100, 
+type:'Dark',
+category:'Physical',
+},
+'Dark Void':{
+bp:0, 
+type:'Dark',
+category:'Status',
+},
+'Minimize':{
+bp:0, 
+type:'Normal',
+category:'Status',
+},
+'Scorching Water':{
+bp:70, 
+type:'Water',
+category:'Special',
+},
+'Boiling Point':{
+bp:80, 
+type:'Water',
+category:'Special',
+},
+'Shuriken Jet':{
+bp:40, 
+type:'Water',
+category:'Physical',
+},
+'Thermal Slam':{
+bp:75, 
+type:'Water',
+category:'Physical',
+},
+'Toy Shurikens':{
+bp:10, 
+type:'Water',
+category:'Physical',
+},
+'Scheming Steam':{
+bp:40, 
+type:'Water',
+category:'Physical',
+},
+'Body Blast':{
+bp:100, 
+type:'Normal',
+category:'Special',
+},
+'Possession':{
+bp:100, 
+type:'Ghost',
+category:'Physical',
+},
+'Rockfall':{
+bp:55, 
+type:'Rock',
+category:'Physical',
+},
+'Frenetic Crush':{
+bp:60, 
+type:'Rock',
+category:'Physical',
+},
+'Abscond':{
+bp:70, 
+type:'Dark',
+category:'Physical',
+},
+'Septic Shock':{
+bp:70, 
+type:'Water',
+category:'Physical',
+},
+'Riptide':{
+bp:90, 
+type:'Water',
+category:'Physical',
+},
+'Hydrothermal Crash':{
+bp:120, 
+type:'Water',
+category:'Physical',
+},
+'Whale Slap':{
+bp:45, 
+type:'Water',
+category:'Physical',
+},
+'Dragon\'s Fire':{
+bp:75, 
+type:'Dragon',
+category:'Physical',
+},
+'Solar Eclipse':{
+bp:130, 
+type:'Dark',
+category:'Special',
+},
+'Quick Draw':{
+bp:80, 
+type:'Dark',
+category:'Physical',
+},
+'Death Knell':{
+bp:20, 
+type:'Ghost',
+category:'Physical',
+},
+'Geyser':{
+bp:90, 
+type:'Water',
+category:'Special',
+},
+'Leeching Sting':{
+bp:80, 
+type:'Bug',
+category:'Physical',
+},
+'Blaze of Glory':{
+bp:80, 
+type:'Fire',
+category:'Physical',
+},
+'Beak Blade':{
+bp:70, 
+type:'Flying',
+category:'Physical',
+},
+'Cactus Sting':{
+bp:55, 
+type:'Grass',
+category:'Physical',
+},
+'Freeze Drill':{
+bp:90, 
+type:'Ice',
+category:'Physical',
+},
+'Pulsing Charge':{
+bp:85, 
+type:'Electric',
+category:'Special',
+},
+'Humdrum':{
+bp:60, 
+type:'Bug',
+category:'Physical',
+},
+'Ion Pulse':{
+bp:50, 
+type:'Electric',
+category:'Special',
+},
+'Terrain Shock':{
+bp:40, 
+type:'Electric',
+category:'Special',
+},
+'Hypno Spore':{
+bp:0, 
+type:'Grass',
+category:'Status',
+},
+'Pyrrhic Victory':{
+bp:0, 
+type:'Fire',
+category:'Physical',
+},
+'Dick Move':{
+bp:0, 
+type:'Dark',
+category:'Status',
+},
+'Rubble':{
+bp:100, 
+type:'Rock',
+category:'Physical',
+},
+'Flash Freeze':{
+bp:65, 
+type:'Electric',
+category:'Special',
+},
+'Scorching Heat':{
+bp:70, 
+type:'Fire',
+category:'Special',
+},
+'Lake of Rage':{
+bp:120, 
+type:'Water',
+category:'Physical',
+},
+'Vine Smash':{
+bp:130, 
+type:'Grass',
+category:'Physical',
+},
+'Stealth Seed':{
+bp:0, 
+type:'Grass',
+category:'Status',
+},
+'Flash Flood':{
+bp:85, 
+type:'Water',
+category:'Special',
+},
+'Feather Wind':{
+bp:0, 
+type:'Flying',
+category:'Status',
+},
+'Mechanical Rhythm':{
+bp:120, 
+type:'Steel',
+category:'Physical',
+},
+'Mind Melt':{
+bp:110, 
+type:'Psychic',
+category:'Special',
+},
+'Mind Blast':{
+bp:80, 
+type:'Fairy',
+category:'Special',
+},
+'Snap':{
+bp:70, 
+type:'Water',
+category:'Physical',
+},
+'Hydraulic Jaws':{
+bp:110, 
+type:'Water',
+category:'Physical',
+},
+'Scalding Vortex':{
+bp:35, 
+type:'Water',
+category:'Special',
+},
+'Sonic Burst':{
+bp:60, 
+type:'Normal',
+category:'Special',
+},
+'Steam Press':{
+bp:85, 
+type:'Water',
+category:'Physical',
+},
+'Steamy Ring':{
+bp:0, 
+type:'Water',
+category:'Status',
+},
+'Buggin\'':{
+bp:50, 
+type:'Bug',
+category:'Physical',
+},
+'Shredding Scythe':{
+bp:50, 
+type:'Bug',
+category:'Physical',
+},
+'Suresight':{
+bp:110, 
+type:'Normal',
+category:'Special',
+},
+'Stoke':{
+bp:90, 
+type:'Fire',
+category:'Special',
+},
+'Star Strike':{
+bp:120, 
+type:'Water',
+category:'Physical',
+},
+'Celestial Fist':{
+bp:100, 
+type:'Fighting',
+category:'Physical',
+},
+'Thunder Virus':{
+bp:0, 
+type:'Electric',
+category:'Status',
+},
+'Solar Flare':{
+bp:140, 
+type:'Fire',
+category:'Special',
+},
+'Blossom Dance':{
+bp:120, 
+type:'Grass',
+category:'Physical',
+},
+'Leech Shield':{
+bp:0, 
+type:'Grass',
+category:'Status',
+},
+'Flaming Tail':{
+bp:70, 
+type:'Fire',
+category:'Physical',
+},
+'Gear Third':{
+bp:30, 
+type:'Fighting',
+category:'Physical',
+},
+'High Flying Gears':{
+bp:60, 
+type:'Steel',
+category:'Physical',
+},
+'Turvy Torrent':{
+bp:90, 
+type:'Water',
+category:'Special',
+},
+'Negative Zone':{
+bp:0, 
+type:'Dark',
+category:'Status',
+},
+'Neuramancy':{
+bp:0, 
+type:'Bug',
+category:'Status',
+},
+'Rope Burn':{
+bp:80, 
+type:'Grass',
+category:'Special',
+},
+'Sacred Storm':{
+bp:65, 
+type:'Water',
+category:'Special',
+},
+'Spite Siphon':{
+bp:0, 
+type:'Ghost',
+category:'Status',
+},
+'Shadow Kiss':{
+bp:80, 
+type:'Ghost',
+category:'Special',
+},
+'Iron Blood Drench':{
+bp:0, 
+type:'Steel',
+category:'Status',
+},
+'X-Cross':{
+bp:65, 
+type:'Steel',
+category:'Physical',
+},
+'Neuro Fang':{
+bp:80, 
+type:'Fire',
+category:'Physical',
+},
+'Explosive Robustion':{
+bp:125, 
+type:'Fire',
+category:'Physical',
+},
+'Luster Blitz':{
+bp:120, 
+type:'Psychic',
+category:'Physical',
+},
+'Shadow Bind':{
+bp:100, 
+type:'Dark',
+category:'Special',
+},
+'Dust Storm':{
+bp:105, 
+type:'Fairy',
+category:'Special',
+},
+'Solar Wind':{
+bp:80, 
+type:'Flying',
+category:'Special',
+},
+'Lunatic Blast':{
+bp:110, 
+type:'Fairy',
+category:'Special',
+},
+'Phantom Crash':{
+bp:90, 
+type:'Ghost',
+category:'Physical',
+},
+'Bulky Bug':{
+bp:0, 
+type:'Bug',
+category:'Status',
+},
+'Wriggling Wall':{
+bp:0, 
+type:'Bug',
+category:'Physical',
+},
+'Break Bite':{
+bp:75, 
+type:'Bug',
+category:'Physical',
+},
+'Shadowy Retreat':{
+bp:70, 
+type:'Ghost',
+category:'Special',
+},
+'Cryoblast':{
+bp:140, 
+type:'Ice',
+category:'Special',
+},
+'Charge Mind':{
+bp:0, 
+type:'Electric',
+category:'Status',
+},
+'Fighting Spirit':{
+bp:0, 
+type:'Fighting',
+category:'Status',
+},
+'Boost Buster':{
+bp:100, 
+type:'Steel',
+category:'Physical',
+},
+'Pollution Ball':{
+bp:50, 
+type:'Normal',
+category:'Special',
+},
+'Torturing Slumber':{
+bp:0, 
+type:'Ghost',
+category:'Status',
+},
+'Playful Grace':{
+bp:50, 
+type:'Fairy',
+category:'Special',
+},
+'U-Shield':{
+bp:0, 
+type:'Bug',
+category:'Status',
+},
+'Downgrade Kick':{
+bp:55, 
+type:'Dark',
+category:'Special',
+},
+'Fake Spite':{
+bp:40, 
+type:'Ghost',
+category:'Physical',
+},
+'Wave Crash':{
+bp:40, 
+type:'Water',
+category:'Special',
+},
+'Metal Burst':{
+bp:0, 
+type:'Water',
+category:'Special',
+},
+'Deafening Wind':{
+bp:110, 
+type:'Flying',
+category:'Special',
+},
+'Suffering':{
+bp:0, 
+type:'Dark',
+category:'Status',
+},
+'Arctic Pulse':{
+bp:60, 
+type:'Ice',
+category:'Special',
+},
+'Dimensional Scissor':{
+bp:80, 
+type:'Bug',
+category:'Physical',
+},
+'Pixie Paw':{
+bp:50, 
+type:'Fairy',
+category:'Physical',
+},
+'Shadow Psyche':{
+bp:80, 
+type:'Ghost',
+category:'Special',
+},
+'Wizard Shift':{
+bp:0, 
+type:'Normal',
+category:'Status',
+},
+'Cutting Seeds':{
+bp:25, 
+type:'Grass',
+category:'Special',
+},
+'Muddy Seed':{
+bp:25, 
+type:'Grass',
+category:'Physical',
+},
+'Gaia Blade':{
+bp:100, 
+type:'Grass',
+category:'Physical',
+},
+'Scorched Earth':{
+bp:130, 
+type:'Grass',
+category:'Special',
+},
+'Charge Up Beam':{
+bp:50, 
+type:'Electric',
+category:'Special',
+},
+'Pursuing Beam':{
+bp:150, 
+type:'Dark',
+category:'Special',
+},
+'Turtle Dance':{
+bp:0, 
+type:'Water',
+category:'Status',
+},
+'Healing Crystals':{
+bp:0, 
+type:'Rock',
+category:'Status',
+},
+'Primordial Waves':{
+bp:60, 
+type:'Water',
+category:'Special',
+},
+'Sacred Dance':{
+bp:100, 
+type:'Dragon',
+category:'Physical',
+},
+'Ground Divider':{
+bp:100, 
+type:'Flying',
+category:'Special',
+},
+'Sleeper Thread':{
+bp:0, 
+type:'Bug',
+category:'Status',
+},
+'Slumber Switch':{
+bp:0, 
+type:'Dark',
+category:'Status',
+},
+'Sweet Wish':{
+bp:0, 
+type:'Fairy',
+category:'Status',
+},
+'Tri-Fog':{
+bp:80, 
+type:'Normal',
+category:'Special',
+},
+'Drainage':{
+bp:75, 
+type:'Dark',
+category:'Physical',
+},
+'Land Fragments':{
+bp:40, 
+type:'Ground',
+category:'Special',
+},
+'Boulder Blast':{
+bp:40, 
+type:'Ground',
+category:'Physical',
+},
+'Shatter Shard':{
+bp:40, 
+type:'Ground',
+category:'Physical',
+},
+'Wisp Wasp':{
+bp:40, 
+type:'Fire',
+category:'Physical',
+},
+'Spinning Punch':{
+bp:0, 
+type:'Ghost',
+category:'Physical',
+},
+'Phantom Combo':{
+bp:45, 
+type:'Ghost',
+category:'Physical',
+},
+'Mental Scramble':{
+bp:80, 
+type:'Psychic',
+category:'Physical',
+},
+'Dragonfly Dance':{
+bp:0, 
+type:'Dragon',
+category:'Status',
+},
+'Sacrilege':{
+bp:100, 
+type:'Fire',
+category:'Physical',
+},
+'Mineral Dive':{
+bp:95, 
+type:'Rock',
+category:'Physical',
+},
+'Terrible Fate':{
+bp:60, 
+type:'Normal',
+category:'Physical',
+},
+'Antihero Burst':{
+bp:70, 
+type:'Dark',
+category:'Special',
+},
+'Sludgy Sap':{
+bp:75, 
+type:'Poison',
+category:'Special',
+},
+'Dirty Escape':{
+bp:70, 
+type:'Dark',
+category:'Special',
+},
+'Roar of the Sun':{
+bp:90, 
+type:'Fire',
+category:'Special',
+},
+'Briny Drake':{
+bp:0, 
+type:'Dragon',
+category:'Status',
+},
+'Pulse Switch':{
+bp:60, 
+type:'Electric',
+category:'Special',
+},
+'Haunted Slam':{
+bp:80, 
+type:'Ghost',
+category:'Physical',
+},
+'Hydratate':{
+bp:0, 
+type:'Water',
+category:'Status',
+},
+'Royal Flush':{
+bp:0, 
+type:'Water',
+category:'Status',
+},
+'Trapping Roots':{
+bp:0, 
+type:'Grass',
+category:'Status',
+},
+'Cosmic Web':{
+bp:0, 
+type:'Psychic',
+category:'Status',
+},
+'Draconic Trade':{
+bp:85, 
+type:'Dragon',
+category:'Special',
+},
+'Dragon\'s Cage':{
+bp:80, 
+type:'Dragon',
+category:'Special',
+},
+'Coast Stones':{
+bp:70, 
+type:'Rock',
+category:'Special',
+},
+'Switch Strike':{
+bp:70, 
+type:'Steel',
+category:'Physical',
+},
+'Negative Bits':{
+bp:40, 
+type:'Dark',
+category:'Physical',
+},
+'Aquadrain':{
+bp:0, 
+type:'Water',
+category:'Status',
+},
+'Richteruption':{
+bp:110, 
+type:'Ground',
+category:'Special',
+},
+'Viral Core':{
+bp:100, 
+type:'Normal',
+category:'Special',
+},
+'Tremor Power':{
+bp:100, 
+type:'Normal',
+category:'Physical',
+},
+'Tremor Power Bug':{
+bp:100, 
+type:'Bug',
+category:'Physical',
+},
+'Tremor Power Dark':{
+bp:100, 
+type:'Dark',
+category:'Physical',
+},
+'Tremor Power Dragon':{
+bp:100, 
+type:'Dragon',
+category:'Physical',
+},
+'Tremor Power Electric':{
+bp:100, 
+type:'Electric',
+category:'Physical',
+},
+'Tremor Power Fighting':{
+bp:100, 
+type:'Fighting',
+category:'Physical',
+},
+'Tremor Power Fire':{
+bp:100, 
+type:'Fire',
+category:'Physical',
+},
+'Tremor Power Flying':{
+bp:100, 
+type:'Flying',
+category:'Physical',
+},
+'Tremor Power Ghost':{
+bp:100, 
+type:'Ghost',
+category:'Physical',
+},
+'Tremor Power Grass':{
+bp:100, 
+type:'Grass',
+category:'Physical',
+},
+'Tremor Power Ground':{
+bp:100, 
+type:'Ground',
+category:'Physical',
+},
+'Tremor Power Ice':{
+bp:100, 
+type:'Ice',
+category:'Physical',
+},
+'Tremor Power Poison':{
+bp:100, 
+type:'Poison',
+category:'Physical',
+},
+'Tremor Power Psychic':{
+bp:100, 
+type:'Psychic',
+category:'Physical',
+},
+'Tremor Power Rock':{
+bp:100, 
+type:'Rock',
+category:'Physical',
+},
+'Tremor Power Steel':{
+bp:100, 
+type:'Steel',
+category:'Physical',
+},
+'Tremor Power Water':{
+bp:100, 
+type:'Water',
+category:'Physical',
+},
+'Flash Fault':{
+bp:60, 
+type:'Ground',
+category:'Physical',
+},
+'Squirm Sequence':{
+bp:20, 
+type:'Bug',
+category:'Physical',
+},
+'Duplex Shock':{
+bp:40, 
+type:'Electric',
+category:'Physical',
+},
+'Tesla Horns':{
+bp:80, 
+type:'Electric',
+category:'Physical',
+},
+'Arise':{
+bp:90, 
+type:'Electric',
+category:'Physical',
+},
+'Earth Shatter':{
+bp:90, 
+type:'Ground',
+category:'Physical',
+},
+'Dark Chop':{
+bp:40, 
+type:'Dark',
+category:'Physical',
+},
+'Cheap Shot':{
+bp:50, 
+type:'Dark',
+category:'Physical',
+},
+'Meteor Crash':{
+bp:100, 
+type:'Dragon',
+category:'Physical',
+},
+'Passive Penalty':{
+bp:100, 
+type:'Dark',
+category:'Physical',
+},
+'Acid Reflux':{
+bp:90, 
+type:'Poison',
+category:'Special',
+},
+'Sea Squirm':{
+bp:70, 
+type:'Water',
+category:'Special',
+},
+'Hot Bath':{
+bp:0, 
+type:'normal',
+category:'Status',
+},
+'Trap Door':{
+bp:150, 
+type:'Fighting',
+category:'Physical',
+},
+'Flux Flush':{
+bp:80, 
+type:'Water',
+category:'Special',
+},
+'Switch Flare':{
+bp:100, 
+type:'Fire',
+category:'Special',
+},
+'Crab Pulse':{
+bp:100, 
+type:'Water',
+category:'Special',
+},
+'Hail Hydra':{
+bp:0, 
+type:'Dark',
+category:'Status',
+},
+'Overheated Afro':{
+bp:130, 
+type:'Fire',
+category:'Physical',
+},
+'Agent Orange':{
+bp:0, 
+type:'Fire',
+category:'Status',
+},
+'Flame Skull':{
+bp:90, 
+type:'Fire',
+category:'Physical',
+},
+'Hot Head':{
+bp:120, 
+type:'Fire',
+category:'Physical',
+},
+'Flaming Workout':{
+bp:0, 
+type:'Fire',
+category:'Status',
+},
+'Parabolic Charge':{
+bp:65, 
+type:'Steel',
+category:'Special',
+},
+'Glacier Rumble':{
+bp:120, 
+type:'Ice',
+category:'Physical',
+},
+'Evil Blast':{
+bp:130, 
+type:'Ghost',
+category:'Special',
+},
+'Accursed Tomb':{
+bp:65, 
+type:'Ghost',
+category:'Special',
+},
+'Miracle Blast':{
+bp:110, 
+type:'Fighting',
+category:'Special',
+},
+'Steel Snap':{
+bp:40, 
+type:'Steel',
+category:'Physical',
+},
+'Bullet Scissor':{
+bp:40, 
+type:'Bug',
+category:'Physical',
+},
+'Shadow Cut':{
+bp:70, 
+type:'Ghost',
+category:'Physical',
+},
+'Vampiric Drain':{
+bp:90, 
+type:'Ghost',
+category:'Physical',
+},
+'Shatter Head':{
+bp:150, 
+type:'Ice',
+category:'Physical',
+},
+'Fertilizer':{
+bp:0, 
+type:'Ground',
+category:'Status',
+},
+'Draining Slam':{
+bp:75, 
+type:'Grass',
+category:'Physical',
+},
+'Charbagh':{
+bp:0, 
+type:'Grass',
+category:'Status',
+},
+'Sticky Venom':{
+bp:0, 
+type:'Bug',
+category:'Status',
+},
+'Condensation':{
+bp:0, 
+type:'Normal',
+category:'Status',
+},
+'Drain Rush':{
+bp:100, 
+type:'Fighting',
+category:'Physical',
+},
+'Clever Clutch':{
+bp:65, 
+type:'Dark',
+category:'Physical',
+},
+'Hood Jump':{
+bp:90, 
+type:'Fighting',
+category:'Physical',
+},
+'Drain Wing':{
+bp:75, 
+type:'Flying',
+category:'Physical',
+},
+'Shoulder Roll':{
+bp:60, 
+type:'Fighting',
+category:'Physical',
+},
+'Play Restlessly':{
+bp:90, 
+type:'Fairy',
+category:'Physical',
+},
+'Focused Fatigue Punch':{
+bp:110, 
+type:'Fighting',
+category:'Physical',
+},
+'Snapdragon':{
+bp:30, 
+type:'Fairy',
+category:'Physical',
+},
+'Shock Suck':{
+bp:65, 
+type:'Electric',
+category:'Special',
+},
+'Hidden Gem':{
+bp:100, 
+type:'Normal',
+category:'Physical',
+},
+'Hidden Gem Bug':{
+bp:100, 
+type:'Bug',
+category:'Physical',
+},
+'Hidden Gem Dark':{
+bp:100, 
+type:'Dark',
+category:'Physical',
+},
+'Hidden Gem Dragon':{
+bp:100, 
+type:'Dragon',
+category:'Physical',
+},
+'Hidden Gem Electric':{
+bp:100, 
+type:'Electric',
+category:'Physical',
+},
+'Hidden Gem Fighting':{
+bp:100, 
+type:'Fighting',
+category:'Physical',
+},
+'Hidden Gem Fire':{
+bp:100, 
+type:'Fire',
+category:'Physical',
+},
+'Hidden Gem Flying':{
+bp:100, 
+type:'Flying',
+category:'Physical',
+},
+'Hidden Gem Ghost':{
+bp:100, 
+type:'Ghost',
+category:'Physical',
+},
+'Hidden Gem Grass':{
+bp:100, 
+type:'Grass',
+category:'Physical',
+},
+'Hidden Gem Ground':{
+bp:100, 
+type:'Ground',
+category:'Physical',
+},
+'Hidden Gem Ice':{
+bp:100, 
+type:'Ice',
+category:'Physical',
+},
+'Hidden Gem Poison':{
+bp:100, 
+type:'Poison',
+category:'Physical',
+},
+'Hidden Gem Psychic':{
+bp:100, 
+type:'Psychic',
+category:'Physical',
+},
+'Hidden Gem Rock':{
+bp:100, 
+type:'Rock',
+category:'Physical',
+},
+'Hidden Gem Steel':{
+bp:100, 
+type:'Steel',
+category:'Physical',
+},
+'Hidden Gem Water':{
+bp:100, 
+type:'Water',
+category:'Physical',
+},
+'Confound':{
+bp:0, 
+type:'Normal',
+category:'Status',
+},
+'Ability Buster':{
+bp:40, 
+type:'Normal',
+category:'Physical',
+},
+'Phantom Pulse':{
+bp:90, 
+type:'Ghost',
+category:'Special',
+},
+'Berserk Rush':{
+bp:120, 
+type:'Dark',
+category:'Physical',
+},
+'Titanium Cannon':{
+bp:70, 
+type:'Steel',
+category:'Special',
+},
+'Draco Brine':{
+bp:130, 
+type:'Water',
+category:'Special',
+},
+'Snow Halation':{
+bp:0, 
+type:'Ice',
+category:'Status',
+},
+'Charged Gears':{
+bp:50, 
+type:'Electric',
+category:'Special',
+},
+'Mind Shatter':{
+bp:130, 
+type:'Psychic',
+category:'Physical',
+},
+'Conqueror\'s Cascade':{
+bp:30, 
+type:'Dragon',
+category:'Physical',
+},
+'Falter Phase':{
+bp:0, 
+type:'Psychic',
+category:'Special',
+},
+'Synchro Bust':{
+bp:80, 
+type:'Dark',
+category:'Special',
+},
+'Solar Shields':{
+bp:0, 
+type:'Fire',
+category:'Status',
+},
+'Acco':{
+bp:180, 
+type:'Ground',
+category:'Physical',
+},
 	'Acid': {
 		bp: 40,
 		type: 'Poison',
