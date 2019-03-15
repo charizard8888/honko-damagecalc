@@ -13580,6 +13580,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 48,
 "sd": 58, 
 "sp": 47 
+		"canEvolve": true
 }, 
 },
 "Swampamar": {
@@ -13615,6 +13616,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 22,
 "sd": 52, 
 "sp": 100 
+		"canEvolve": true
 }, 
 },
 "Gyarotic": {
@@ -13650,6 +13652,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 50,
 "sd": 50, 
 "sp": 50 
+		"canEvolve": true
 }, 
 },
 "Frogrill": {
@@ -13661,6 +13664,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 66,
 "sd": 68, 
 "sp": 83 
+		"canEvolve": true
 }, 
 },
 "Azuninja": {
@@ -13696,6 +13700,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 66,
 "sd": 68, 
 "sp": 83 
+		"canEvolve": true
 }, 
 },
 "Mismatross": {
@@ -13720,6 +13725,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 40,
 "sd": 45, 
 "sp": 77 
+		"canEvolve": true
 }, 
 },
 "Haxardos": {
@@ -13768,6 +13774,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 32,
 "sd": 37, 
 "sp": 70 
+		"canEvolve": true
 }, 
 },
 "Garchados": {
@@ -13816,6 +13823,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 57,
 "sd": 50, 
 "sp": 60 
+		"canEvolve": true
 }, 
 },
 "Wailcatty": {
@@ -13840,6 +13848,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 47,
 "sd": 51, 
 "sp": 57 
+		"canEvolve": true
 }, 
 },
 "Gabinaw": {
@@ -13852,6 +13861,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 64,
 "sd": 69, 
 "sp": 80 
+		"canEvolve": true
 }, 
 },
 "Gargatr": {
@@ -13888,6 +13898,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 64,
 "sd": 69, 
 "sp": 80 
+		"canEvolve": true
 }, 
 },
 "Dragon": {
@@ -13924,6 +13935,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 60,
 "sd": 60, 
 "sp": 55 
+		"canEvolve": true
 }, 
 },
 "Cofagreelix": {
@@ -13960,6 +13972,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 72,
 "sd": 55, 
 "sp": 62 
+		"canEvolve": true
 }, 
 },
 "Joltlord": {
@@ -13984,6 +13997,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 37,
 "sd": 68, 
 "sp": 82 
+		"canEvolve": true
 }, 
 },
 "Vepsicor": {
@@ -14008,6 +14022,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 83,
 "sd": 55, 
 "sp": 73 
+		"canEvolve": true
 }, 
 },
 "Zorcanine": {
@@ -14056,6 +14071,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 48,
 "sd": 54, 
 "sp": 40 
+		"canEvolve": true
 }, 
 },
 "Chesdon": {
@@ -14080,6 +14096,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 35,
 "sd": 42, 
 "sp": 74 
+		"canEvolve": true
 }, 
 },
 "Mamodrill": {
@@ -14104,6 +14121,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 71,
 "sd": 64, 
 "sp": 63 
+		"canEvolve": true
 }, 
 },
 "Heliodra": {
@@ -14140,6 +14158,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 50,
 "sd": 55, 
 "sp": 50 
+		"canEvolve": true
 }, 
 },
 "Joltry": {
@@ -14164,6 +14183,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 35,
 "sd": 65, 
 "sp": 32 
+		"canEvolve": true
 }, 
 },
 "Azumaloom": {
@@ -14224,6 +14244,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 53,
 "sd": 60, 
 "sp": 60 
+		"canEvolve": true
 }, 
 },
 "Pupibite": {
@@ -14236,6 +14257,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 67,
 "sd": 72, 
 "sp": 76 
+		"canEvolve": true
 }, 
 },
 "Tyranichomp": {
@@ -14284,6 +14306,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 55,
 "sd": 47, 
 "sp": 61 
+		"canEvolve": true
 }, 
 },
 "Railie": {
@@ -14320,6 +14343,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 43,
 "sd": 45, 
 "sp": 83 
+		"canEvolve": true
 }, 
 },
 "Charatos": {
@@ -14380,6 +14404,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 57,
 "sd": 67, 
 "sp": 42 
+		"canEvolve": true
 }, 
 },
 "Lairosaur": {
@@ -14392,6 +14417,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 75,
 "sd": 75, 
 "sp": 60 
+		"canEvolve": true
 }, 
 },
 "Aggrosaur": {
@@ -14439,6 +14465,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 73,
 "sd": 65, 
 "sp": 73 
+		"canEvolve": true
 }, 
 },
 "Wartoadier": {
@@ -14450,6 +14477,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 89,
 "sd": 83, 
 "sp": 92 
+		"canEvolve": true
 }, 
 },
 "Blastinja": {
@@ -14510,6 +14538,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 102,
 "sd": 60, 
 "sp": 101 
+		"canEvolve": true
 }, 
 },
 "Kadagma": {
@@ -14522,6 +14551,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 120,
 "sd": 87, 
 "sp": 109 
+		"canEvolve": true
 }, 
 },
 "Magmozam": {
@@ -14558,6 +14588,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 53,
 "sd": 65, 
 "sp": 35 
+		"canEvolve": true
 }, 
 },
 "Glakiss": {
@@ -14593,6 +14624,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 45,
 "sd": 25, 
 "sp": 83 
+		"canEvolve": true
 }, 
 },
 "Sharpedos": {
@@ -14639,6 +14671,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 62,
 "sd": 62, 
 "sp": 62 
+		"canEvolve": true
 }, 
 },
 "Vapornine": {
@@ -14723,6 +14756,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 60,
 "sd": 49, 
 "sp": 80 
+		"canEvolve": true
 }, 
 },
 "Pidgemie": {
@@ -14759,6 +14793,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 85,
 "sd": 70, 
 "sp": 40 
+		"canEvolve": true
 }, 
 },
 "Lampory": {
@@ -14771,6 +14806,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 108,
 "sd": 77, 
 "sp": 77 
+		"canEvolve": true
 }, 
 },
 "Porylure": {
@@ -14795,6 +14831,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 60,
 "sd": 47, 
 "sp": 65 
+		"canEvolve": true
 }, 
 },
 "Starchamp": {
@@ -14819,6 +14856,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 47,
 "sd": 52, 
 "sp": 47 
+		"canEvolve": true
 }, 
 },
 "Eek": {
@@ -14891,6 +14929,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 34,
 "sd": 70, 
 "sp": 24 
+		"canEvolve": true
 }, 
 },
 "Ferroslash": {
@@ -14927,6 +14966,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 55,
 "sd": 50, 
 "sp": 72 
+		"canEvolve": true
 }, 
 },
 "Fraxuleon": {
@@ -14939,6 +14979,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 70,
 "sd": 67, 
 "sp": 83 
+		"canEvolve": true
 }, 
 },
 "Hazard": {
@@ -14987,6 +15028,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 55,
 "sd": 50, 
 "sp": 72 
+		"canEvolve": true
 }, 
 },
 "Hitmonklang": {
@@ -15011,6 +15053,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 65,
 "sd": 53, 
 "sp": 55 
+		"canEvolve": true
 }, 
 },
 "Maladuck": {
@@ -15059,6 +15102,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 75,
 "sd": 70, 
 "sp": 50 
+		"canEvolve": true
 }, 
 },
 "Jellivoir": {
@@ -15095,6 +15139,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 32,
 "sd": 60, 
 "sp": 50 
+		"canEvolve": true
 }, 
 },
 "Angol": {
@@ -15107,6 +15152,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 60,
 "sd": 77, 
 "sp": 80 
+		"canEvolve": true
 }, 
 },
 "Metabat": {
@@ -15191,6 +15237,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 49,
 "sd": 49, 
 "sp": 52 
+		"canEvolve": true
 }, 
 },
 "Banegross": {
@@ -15359,6 +15406,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 42,
 "sd": 55, 
 "sp": 50 
+		"canEvolve": true
 }, 
 },
 "Klomp": {
@@ -15371,6 +15419,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 68,
 "sd": 80, 
 "sp": 56 
+		"canEvolve": true
 }, 
 },
 "Swank": {
@@ -15527,6 +15576,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 68,
 "sd": 80, 
 "sp": 56 
+		"canEvolve": true
 }, 
 },
 "Bastioking": {
@@ -15599,6 +15649,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 70,
 "sd": 70, 
 "sp": 50 
+		"canEvolve": true
 }, 
 },
 "Aurortoise": {
@@ -15731,6 +15782,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 50,
 "sd": 65, 
 "sp": 50 
+		"canEvolve": true
 }, 
 },
 "Leafadon": {
@@ -15754,6 +15806,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 80,
 "sd": 57, 
 "sp": 70 
+		"canEvolve": true
 }, 
 },
 "Mampharos": {
@@ -15800,6 +15853,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 60,
 "sd": 57, 
 "sp": 60 
+		"canEvolve": true
 }, 
 },
 "Krok2": {
@@ -15812,6 +15866,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 95,
 "sd": 70, 
 "sp": 87 
+		"canEvolve": true
 }, 
 },
 "Krook-Z": {
@@ -15860,6 +15915,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 64,
 "sd": 70, 
 "sp": 65 
+		"canEvolve": true
 }, 
 },
 "Blasterain": {
@@ -15944,6 +16000,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 37,
 "sd": 85, 
 "sp": 35 
+		"canEvolve": true
 }, 
 },
 "Chantic": {
@@ -15956,6 +16013,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 "sa": 72,
 "sd": 120, 
 "sp": 60 
+		"canEvolve": true
 }, 
 },
 "Blisskiss": {
