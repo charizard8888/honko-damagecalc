@@ -36,7 +36,7 @@ var POKEDEX_SM = {
 "sd": 70, 
 "sp": 125 
 }, 
-"w": 30
+"w": 30.0
 },
 "Flygon": {
 "t1": "Dragon", 
@@ -49,7 +49,7 @@ var POKEDEX_SM = {
 "sd": 70, 
 "sp": 100 
 }, 
-"w": 82
+"w": 82.0
 },
 "Meganium": {
 "t1": "Grass", 
@@ -88,7 +88,7 @@ var POKEDEX_SM = {
 "sd": 65, 
 "sp": 75 
 }, 
-"w": 550
+"w": 550.0
 },
 "Metagross-Mega": {
 "t1": "Psychic", 
@@ -140,7 +140,7 @@ var POKEDEX_SM = {
 "sd": 65, 
 "sp": 50 
 }, 
-"w": 80
+"w": 80.0
 },
 "Kricketune": {
 "t1": "Bug", 
@@ -191,7 +191,7 @@ var POKEDEX_SM = {
 "sd": 50, 
 "sp": 87 
 }, 
-"w": 105
+"w": 105.0
 },
 "Rhydon": {
 "t1": "Ground", 
@@ -204,7 +204,7 @@ var POKEDEX_SM = {
 "sd": 45, 
 "sp": 45 
 }, 
-"w": 120
+"w": 120.0
 },
 "Eviolite Enabler": {
 "t1": "Normal", 
@@ -216,7 +216,7 @@ var POKEDEX_SM = {
 "sd": 5, 
 "sp": 5 
 }, 
-"w": 420
+"w": 420.0
 },
 "Pangoro": {
 "t1": "Fighting", 
@@ -229,7 +229,7 @@ var POKEDEX_SM = {
 "sd": 80, 
 "sp": 84 
 }, 
-"w": 136
+"w": 136.0
 },
 "Trapinch": {
 "t1": "Ground", 
@@ -242,7 +242,7 @@ var POKEDEX_SM = {
 "sd": 65, 
 "sp": 50 
 }, 
-"w": 15
+"w": 15.0
 },
 "Ninjask": {
 "t1": "Water", 
@@ -255,7 +255,7 @@ var POKEDEX_SM = {
 "sd": 70, 
 "sp": 110 
 }, 
-"w": 12
+"w": 12.0
 },
 "Swampert": {
 "t1": "Water", 
@@ -281,7 +281,7 @@ var POKEDEX_SM = {
 "sd": 110, 
 "sp": 70 
 }, 
-"w": 102
+"w": 102.0
 },
 "Audino": {
 "t1": "Fairy", 
@@ -294,7 +294,7 @@ var POKEDEX_SM = {
 "sd": 80, 
 "sp": 50 
 }, 
-"w": 31
+"w": 31.0
 },
 "Audino-Mega": {
 "t1": "Fairy", 
@@ -307,7 +307,7 @@ var POKEDEX_SM = {
 "sd": 110, 
 "sp": 50 
 }, 
-"w": 32
+"w": 32.0
 },
 "Sharpedo": {
 "t1": "Water", 
@@ -346,7 +346,7 @@ var POKEDEX_SM = {
 "sd": 90, 
 "sp": 95 
 }, 
-"w": 162
+"w": 162.0
 },
 "Lanturn": {
 "t1": "Water", 
@@ -371,7 +371,7 @@ var POKEDEX_SM = {
 "sd": 75, 
 "sp": 55 
 }, 
-"w": 26
+"w": 26.0
 },
 "Mew": {
 "t1": "Psychic", 
@@ -384,7 +384,7 @@ var POKEDEX_SM = {
 "sd": 85, 
 "sp": 85 
 }, 
-"w": 4
+"w": 4.0
 },
 "Cacturne": {
 "t1": "Grass", 
@@ -410,7 +410,7 @@ var POKEDEX_SM = {
 "sd": 81, 
 "sp": 60 
 }, 
-"w": 71
+"w": 71.0
 },
 "Gardevoir": {
 "t1": "Fairy", 
@@ -448,7 +448,7 @@ var POKEDEX_SM = {
 "sd": 60, 
 "sp": 50 
 }, 
-"w": 4
+"w": 4.0
 },
 "Porygon-Z": {
 "t1": "Bug", 
@@ -460,7 +460,7 @@ var POKEDEX_SM = {
 "sd": 95, 
 "sp": 65 
 }, 
-"w": 34
+"w": 34.0
 },
 "Druddigon": {
 "t1": "Dragon", 
@@ -473,7 +473,7 @@ var POKEDEX_SM = {
 "sd": 90, 
 "sp": 65 
 }, 
-"w": 139
+"w": 139.0
 },
 "Forretress": {
 "t1": "Bug", 
@@ -498,7 +498,7 @@ var POKEDEX_SM = {
 "sd": 82, 
 "sp": 103 
 }, 
-"w": 5
+"w": 5.0
 },
 "Sigilyph": {
 "t1": "Psychic", 
@@ -511,7 +511,7 @@ var POKEDEX_SM = {
 "sd": 108, 
 "sp": 63 
 }, 
-"w": 14
+"w": 14.0
 },
 "Vikavolt": {
 "t1": "Rock", 
@@ -524,7 +524,7 @@ var POKEDEX_SM = {
 "sd": 110, 
 "sp": 34 
 }, 
-"w": 45
+"w": 45.0
 },
 "Xurkitree": {
 "t1": "Electric", 
@@ -536,7 +536,7 @@ var POKEDEX_SM = {
 "sd": 103, 
 "sp": 79 
 }, 
-"w": 100
+"w": 100.0
 },
 "Genesect": {
 "t1": "Steel", 
