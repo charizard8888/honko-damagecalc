@@ -44,5 +44,25 @@ var SETDEX_SM = { // hp at df sa sd sp
 	"Swampert-Mega": {
  "CS Mega Wallbreaker": {"level": 100, "evs": {"hp": 0, "at": 252, "df": 0, "sa": 0, "sd": 4, "sp": 252}, "nature": "Adamant", "ability": "Poison Heal", "item": "Swampertite", "moves": ["Liquidation", "Earthquake", "Stone Edge", "Power-Up Punch"]},
 },
+	"Trevenant": {
+ "CS Bulk Up Stallbreaker": {"level": 100, "evs": {"hp": 144, "at": 252, "df": 0, "sa": 0, "sd": 0, "sp": 108}, "nature": "Adamant", "ability": "Harvest", "item": "Sitrus Berry", "moves": ["Bulk Up", "Substitute", "Drain Punch", "Phantom Force"]},
+},
+	"Ditto": {
+ "CS Quick Powder": {"level": 100, "evs": {"hp": 0, "at": 0, "df": 0, "sa": 252, "sd": 4, "sp": 252}, "nature": "Modest / Timid", "ability": "Protean", "item": "Quick Powder", "moves": ["Spikes", "Shadow Ball", "Flash Cannon", "Dazzling Gleam"]},
+},
+	"Forretress": {
+ "CS Regenvest": {"level": 100, "evs": {"hp": 252, "at": 4, "df": 0, "sa": 0, "sd": 252, "sp": 0}, "nature": "Sassy", "ability": "Regenerator", "item": "Assault Vest", "moves": ["Iron Head", "Iron Head", "Earthquake", "Rapid Spin"]},
+},
+	"Druddigon": {
+ "CS Offensive Rocker": {"level": 100, "evs": {"hp": 212, "at": 252, "df": 0, "sa": 0, "sd": 0, "sp": 44}, "nature": "Adamant", "ability": "Defiant", "item": "Leftovers", "moves": ["Shadow Claw", "Dragon Claw", "Outrage", "Shadow Sneak"]},
+},
+	"Xurkitree": {
+ "CS Offensive Pivot": {"level": 100, "evs": {"hp": 0, "at": 0, "df": 0, "sa": 252, "sd": 4, "sp": 252}, "nature": "Modest", "ability": "Electric Terrain", "item": "Zap Plate", "moves": ["Volt Switch", "Recover", "Energy Ball", "Thunderbolt"]},
+"CS Calm Mind": {"level": 100, "evs": {"hp": 252, "at": 0, "df": 252, "sa": 4, "sd": 0, "sp": 0}, "nature": "Bold", "ability": "Electric Terrain", "item": "Leftovers", "moves": ["Calm Mind", "Recover", "Thunderbolt", "Energy Ball"]},
+	},
+	"Kommo-o": {
+ "CS Soulblaze": {"level": 100, "evs": {"hp": 0, "at": 252, "df": 0, "sa": 4, "sd": 0, "sp": 252}, "nature": "Naive", "ability": "Sand Stream", "item": "Kommonium Z", "moves": ["Clanging Scales", "Earthquake", "Outrage", "Iron Head"]},
+"CS Offensive Pivot": {"level": 100, "evs": {"hp": 0, "at": 252, "df": 0, "sa": 0, "sd": 4, "sp": 252}, "nature": "Jolly", "ability": "Sand Stream", "item": "Iapapa Berry", "moves": ["U-turn", "Earthquake", "Stealth Rock", "Toxic"]},
+	},
 	
 };
