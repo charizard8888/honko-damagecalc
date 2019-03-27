@@ -18,6 +18,31 @@ var SETDEX_SM = { // hp at df sa sd sp
 	"Kricketune": {
  "CS delelelelelele whooop": {"level": 100, "evs": {"hp": 0, "at": 0, "df": 0, "sa": 252, "sd": 4, "sp": 252}, "nature": "Timid", "ability": "Swarm", "item": "Focus Sash", "moves": ["Sticky Web", "Boomburst", "Tail Glow", "Taunt"]},
 },
-	
+	"Celesteela": {
+ "CS Autotomize": {"level": 100, "evs": {"hp": 0, "at": 252, "df": 0, "sa": 0, "sd": 4, "sp": 252}, "nature": "Adamant", "ability": "Beast Boost", "item": "Rockium Z", "moves": ["Iron Head", "Earthquake", "Stone Edge", "Autotomize"]},
+"CS Gravity": {"level": 100, "evs": {"hp": 248, "at": 0, "df": 8, "sa": 0, "sd": 252, "sp": 0}, "nature": "Careful", "ability": "Beast Boost", "item": "Leftovers", "moves": ["Iron Head", "Earthquake", "Leech Seed", "Explosion"]},
+	},
+	"Trapinch": {
+ "CS Trapper": {"level": 100, "evs": {"hp": 92, "at": 252, "df": 0, "sa": 0, "sd": 0, "sp": 164}, "nature": "Adamant", "ability": "Arena Trap", "item": "Eviolite", "moves": ["Earthquake", "Fire Fang", "Sucker Punch", "Knock Off"]},
+},
+	"Milotic": {
+ "CS Offensive Defog": {"level": 100, "evs": {"hp": 0, "at": 252, "df": 0, "sa": 0, "sd": 4, "sp": 252}, "nature": "Jolly", "ability": "Trace", "item": "Leftovers", "moves": ["Liquidation", "Play Rough", "Defog", "Recover"]},
+},
+	"Lanturn": {
+ "CS Specially Defensive Pivot": {"level": 100, "evs": {"hp": 252, "at": 0, "df": 4, "sa": 0, "sd": 252, "sp": 0}, "nature": "Calm", "ability": "Volt Absorb", "item": "Leftovers", "moves": ["Scald", "Volt Switch", "Recover", "Heal Bell"]},
+},
+	"Toucannon": {
+ "CS Swords Dance": {"level": 100, "evs": {"hp": 252, "at": 0, "df": 252, "sa": 0, "sd": 4, "sp": 0}, "nature": "Impish", "ability": "Poison Heal", "item": "Toxic Orb", "moves": ["Swords Dance", "Roost", "Beak Blast", "Knock Off"]},
+},
+	"Sharpedo-Mega": {
+ "CS Sharknado": {"level": 100, "evs": {"hp": 0, "at": 4, "df": 0, "sa": 252, "sd": 0, "sp": 252}, "nature": "Hasty", "ability": "Water Veil", "item": "Sharpedonite", "moves": ["Hydro Pump", "Fire Blast", "Thunder", "Earthquake"]},
+"CS Sharknado 3: Oh Hell No!": {"level": 100, "evs": {"hp": 0, "at": 252, "df": 0, "sa": 0, "sd": 4, "sp": 252}, "nature": "Adamant", "ability": "Moxie", "item": "Steelium Z", "moves": ["Shift Gear", "Waterfall", "Smart Strike", "Earthquake"]},	
+	},
+	"Swampert": {
+ "CS Bulk Up Stallbreaker": {"level": 100, "evs": {"hp": 252, "at": 252, "df": 0, "sa": 0, "sd": 4, "sp": 0}, "nature": "Adamant", "ability": "Poison Heal", "item": "Toxic Orb", "moves": ["Bulk Up", "Liquidation", "Earthquake", "Protect"]},
+},
+	"Swampert-Mega": {
+ "CS Mega Wallbreaker": {"level": 100, "evs": {"hp": 0, "at": 252, "df": 0, "sa": 0, "sd": 4, "sp": 252}, "nature": "Adamant", "ability": "Poison Heal", "item": "Swampertite", "moves": ["Liquidation", "Earthquake", "Stone Edge", "Power-Up Punch"]},
+},
 	
 };
