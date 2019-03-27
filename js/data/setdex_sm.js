@@ -10,6 +10,7 @@ var SETDEX_SM = { // hp at df sa sd sp
 	"Nihilego": {
 		"CS Special Wall": {"level": 100, "evs": {"hp": 248, "df": 8, "sd": 252}, "nature": "Calm", "ability": "Levitate", "item": "Black Sludge", "moves": ["Rapid Spin", "Recover", "Sludge Bomb", "Stealth Rock"]},
 	   "CS Unaware Wall": {"level": 100, "evs": {"hp": 248, "df": 252, "sd": 8}, "nature": "Calm", "ability": "Unaware", "item": "Black Sludge", "moves": ["Rapid Spin", "Recover", "Sludge Bomb", "Stealth Rock"]},
+		"CS Offensive Spinner": {"level": 100, "evs": {"hp": 0, "at": 0, "df": 0, "sa": 252, "sd": 4, "sp": 252}, "nature": "Timid", "ability": "Unaware", "item": "Black Sludge", "moves": ["Rapid Spin", "Recover", "Sludge Wave", "Grass Knot / Foul Play"]},
 	},
 	
 };
