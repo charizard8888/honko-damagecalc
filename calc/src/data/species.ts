@@ -654,7 +654,7 @@ w: 300
 
 });
 
-export const SPECIES = [{}, RBY, GSC, ADV, DPP, BW, XY, SM, SS];
+export const SPECIES = [{}, SS];
 
 export class Species implements I.Species {
   private readonly gen: I.GenerationNum;
